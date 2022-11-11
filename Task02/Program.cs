@@ -9,7 +9,7 @@ namespace Task02
             /*
              * This program is to let the user enter salary
              * and then calculate the net salart after applying the tax of 10,
-             * the show them the before and after.
+             * then show them the before and after.
              */
 
 
