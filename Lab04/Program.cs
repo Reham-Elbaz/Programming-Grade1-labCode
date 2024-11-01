@@ -182,7 +182,7 @@ namespace Lab04
                     break;
             }
 
-            Console.WriteLine("{0} {1} {2} = {3}", operand1, myOperator, operand2,  myResult);
+            Console.WriteLine($"{0} {1} {2} = {3}", operand1, myOperator, operand2,  myResult);
 
 
             // CODE SNIPPET 8
